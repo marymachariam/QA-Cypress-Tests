@@ -60,6 +60,3 @@ QA-Cypress-Tests/
 ```
 ## Author
 Mary Macharia
-
-# Install dependencies
-npm install
